@@ -1,6 +1,10 @@
 # PillBoy
 makemit2019 IOT pill holder
 
+https://devpost.com/software/pillboy
+
+MakeMIT Awards: Most Innovative Hack, Most Impactful Problem to Solve in the Healthcare Domain, and Best Hack that used Twilio products
+
 Hardware Used: 
 
 Adafruit Feather Huzzah Esp8266, Adafruit 2.4" 
